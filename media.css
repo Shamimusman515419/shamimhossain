@@ -70,7 +70,9 @@
       height: 400px;
       width: 400px;
     }
-  
+    .click-top-page i{
+ right: 10%;
+    }
     .send-massegn button {
       margin: 15px 0 !important;
     }
@@ -208,4 +210,10 @@
     .year h1 {
       font-size: 20px;
     }
+  }
+
+
+  .containere{
+     width: 95%;
+     margin: auto;
   }
