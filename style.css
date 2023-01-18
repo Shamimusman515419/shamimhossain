@@ -872,12 +872,13 @@ input {
 .inputbobx #submit {
     outline: none !important;
     border: none !important;
-    background: rgb(9, 48, 224) !important;
+    background: #FFE600 !important;
     font-size: 20px !important;
     padding: 10px 8px !important;
     margin: 10px;
+    font-size: 20px;
     text-align: center;
-    color: #ffffffff;
+    color: rgb(0, 0, 0);
     font-weight: 500;
     border-radius: 10px;
 }
