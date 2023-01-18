@@ -128,7 +128,12 @@
   
   }
   
-  @media screen and (min-width:1200px) {}
+  @media screen and (min-width:1200px) {
+
+  .myadvantege{
+     min-height: 700px;
+  }
+  }
   
   @media screen and (min-width:900px) {
   
